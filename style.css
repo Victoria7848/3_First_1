@@ -8,12 +8,16 @@ body {
 }
 
 h1 {
-    color: white;
-    font-size: 40px;
+    left: 615px;
+    top: 39px;
+    padding-left: 5px;
     text-align: center;
-    padding: 25px;
-    margin-top: -10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 96px;
+    color: #FFFFFF;
 }
+
 header {
     margin: 0px -6px 0px -6px;
     background: linear-gradient(89.41deg, #ABBB7C 0%, #4D5538 100%);
@@ -23,11 +27,6 @@ header {
     left: 0px;
     top: 0px;
 }
-.circles {
-    width: 100%;
-    height: 100%;
-}
-
 
 h3 {
     background: #9DB84E;
