@@ -86,14 +86,13 @@ h3 {
 .container .card .content {
     position: relative;
     margin-top: -140px;
-    padding: 10px 15px;
+    padding: 10px 190px;
     text-align: center;
     color: #111;
     visibility: hidden;
     opacity: 0;
     transition: 0.3s ease-in-out;
-    width: 490px
-    left: 190px;
+    width: 490px;
     height: 400px;
     background-color: #dad1bb;
 }
