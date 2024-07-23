@@ -93,7 +93,7 @@ h3 {
     opacity: 0;
     transition: 0.3s ease-in-out;
     width: 490px
-    right: 140px;
+    left: 190px;
     height: 400px;
     background-color: #dad1bb;
 }
